@@ -2,9 +2,9 @@
 
 Pod::Spec.new do |s|
 
-  s.name         = "WXLib"
+  s.name         = "WXLibB"
 
-  s.version      = "1.0.0"
+  s.version      = "1.1.1"
 
   s.swift_version = "4.0"
 
@@ -14,7 +14,7 @@ Pod::Spec.new do |s|
 wx tool, share or others
                    DESC
 
-  s.homepage     = "http://gitlab.shenmajr.com/shenma-app/WXLib"
+  s.homepage     = "http://gitlab.shenmajr.com/shenma-app/WXLibB"
 
   s.license      = "MIT"
 
