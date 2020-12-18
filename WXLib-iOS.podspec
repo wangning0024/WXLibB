@@ -91,8 +91,8 @@ Pod::Spec.new do |spec|
   #  Not including the public_header_files will make all headers public.
   #
 
-  spec.source_files  = "WXLib", "WXLib/**/*.{h,m}"
-  spec.exclude_files = "WXLib/Exclude"
+  sp.source_files  = "WXLib/WX/*.{swift,h}"
+  #spec.exclude_files = "WXLib/Exclude"
 
   # spec.public_header_files = "Classes/**/*.h"
 
